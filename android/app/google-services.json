@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487077647900",
+    "project_id": "catchpool-55436",
+    "storage_bucket": "catchpool-55436.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487077647900:android:24cca2dc7b6cfc648ef1d9",
+        "android_client_info": {
+          "package_name": "com.example.catchpool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6HAIaf0L8EIFPjomqrzWqgnnzGA3emZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
